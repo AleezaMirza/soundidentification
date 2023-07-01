@@ -1,0 +1,37 @@
+body{
+    background-color: bisque;
+    font-family: 'Cinzel Decorative', cursive;
+}
+
+.header_div{
+    background-color: rgb(252, 252, 199) ;
+}
+
+.header_div p{
+    font-family: 'Cormorant Garamond', serif;
+    color: brown;
+    font-weight: bold;
+    font-size: medium;
+}
+
+.main_div button{
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: 10px;
+    background-color: lightblue;
+    box-shadow: 2px 2px 2px black;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: rgb(151, 149, 149);
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(151, 149, 149);
+    
+}
